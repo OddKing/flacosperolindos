@@ -1,0 +1,7 @@
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\bin\Debug\bibliotecaControlador.dll
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\bin\Debug\bibliotecaControlador.pdb
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\bin\Debug\BibliotecaCalses.dll
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\bin\Debug\BibliotecaCalses.pdb
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\obj\Debug\bibliotecaControlador.csprojResolveAssemblyReference.cache
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\obj\Debug\bibliotecaControlador.dll
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\bibliotecaControlador\obj\Debug\bibliotecaControlador.pdb

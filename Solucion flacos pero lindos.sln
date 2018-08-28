@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaCalses", "BibliotecaCalses\BibliotecaCalses.csproj", "{EC7B4068-9C65-41EF-BFEB-BE292F06203C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibliotecaControlador", "bibliotecaControlador\bibliotecaControlador.csproj", "{D3F1BBFC-099F-4B38-AB88-C35EB7FB64F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{56ECFEEA-02FC-408A-AF54-A930E3D0C1F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC7B4068-9C65-41EF-BFEB-BE292F06203C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC7B4068-9C65-41EF-BFEB-BE292F06203C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC7B4068-9C65-41EF-BFEB-BE292F06203C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC7B4068-9C65-41EF-BFEB-BE292F06203C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3F1BBFC-099F-4B38-AB88-C35EB7FB64F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F1BBFC-099F-4B38-AB88-C35EB7FB64F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F1BBFC-099F-4B38-AB88-C35EB7FB64F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F1BBFC-099F-4B38-AB88-C35EB7FB64F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56ECFEEA-02FC-408A-AF54-A930E3D0C1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56ECFEEA-02FC-408A-AF54-A930E3D0C1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56ECFEEA-02FC-408A-AF54-A930E3D0C1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56ECFEEA-02FC-408A-AF54-A930E3D0C1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\BibliotecaCalses\obj\Debug\BibliotecaCalses.csprojResolveAssemblyReference.cache
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\BibliotecaCalses\bin\Debug\BibliotecaCalses.dll
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\BibliotecaCalses\bin\Debug\BibliotecaCalses.pdb
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\BibliotecaCalses\obj\Debug\BibliotecaCalses.dll
+F:\ESTUDIO\2018-02\DEN\Solucion flacos pero lindos\BibliotecaCalses\obj\Debug\BibliotecaCalses.pdb
